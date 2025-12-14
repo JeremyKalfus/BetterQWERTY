@@ -46,7 +46,8 @@ Copy the BetterQWERTY rule file into Karabiner’s configuration directory:
 
 ```bash
 mkdir -p ~/.config/karabiner/assets/complex_modifications
-cp macOS/karabiner/betterqwerty.json ~/.config/karabiner/assets/complex_modifications/
+cp macOS/karabiner/betterqwerty.json ~/.config/karabiner/assets/complex_modifications
+```
 
 ## Step 3: Enable BetterQWERTY
 
@@ -60,4 +61,4 @@ BetterQWERTY (P↔; and Caps↔Dele)
 
 
 **AND THAT'S IT!!**
-Now P and ; as well as caps lock and backspace should be swapped, making your typing a lot more efficient 
+Now "**P**" and "**;**" as well as "**caps lock**" and "**backspace**" should be swapped, making your typing a lot more efficient 
