@@ -13,6 +13,6 @@ The .keylayout file is easier to install but only swaps "**P**" and "**;**".
 
 The karabiner version swaps "**P**" and "**;**" AS WELL AS "**caps lock**" and "**delete**".
 
-Both versions will improve your overall typing speed.
+Both versions will improve your overall typing speed. For indivivual instructions, see either in the macOS file. 
 
 [^1]: OBVIOUSLY if you're coding in Java then this may not apply. But, NEWSFLASH, the majority of the FREAKING WORLD POPULATION that has TOUCHED A KEYBOARD are NOT Java developers. 
