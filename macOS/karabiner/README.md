@@ -14,11 +14,11 @@ Karabiner-Elements is a tool that works on a low level on macOS and lets you swa
 2. Open **Karabiner-Elements** after installation.
 
 3. macOS will prompt you to approve several permissions.  
-   **All of these are required**:
+   All of these are required:
 
    - **System Extension**  
      - System Settings -> Privacy & Security  
-     - Click **Allow** when prompted  
+     - Click "Allow" when prompted  
      - Restart if macOS asks you to
 
    - **Accessibility**  
@@ -34,15 +34,13 @@ Karabiner-Elements is a tool that works on a low level on macOS and lets you swa
 
 4. Reopen **Karabiner-Elements** and make sure:
    - A profile (usually Default profile) is selected
-   - Your keyboard device is enabled under **Devices**
+   - Your keyboard device is enabled under "Devices"
 
 > If these steps are not completed, Karabiner rules may appear enabled but will not affect typing.
 
----
-
 ## Step 2: Get the BetterQWERTY rule file
 
-Choose **one** of the following options.
+Choose one of the following options.
 
 ### Option A: Download the JSON file directly (recommended for most users)
 
@@ -65,8 +63,6 @@ cd BetterQWERTY
 mkdir -p ~/.config/karabiner/assets/complex_modifications
 cp macOS/karabiner/betterqwerty.json ~/.config/karabiner/assets/complex_modifications/
 ```
-
----
 
 ## Step 3: Enable BetterQWERTY
 
