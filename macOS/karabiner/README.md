@@ -1,6 +1,6 @@
 # BetterQWERTY on macOS (Karabiner-Elements)
 
-This is the **recommended** way to use BetterQWERTY on macOS.
+This is the recommended way to use BetterQWERTY on macOS, b/c it swaps both "P" and ";" as well as "Caps lock" and "Delete" keys.
 
 Karabiner-Elements is a tool that works on a low level on macOS and lets you swap any keyboard keys.
 
@@ -65,6 +65,8 @@ cd BetterQWERTY
 mkdir -p ~/.config/karabiner/assets/complex_modifications
 cp macOS/karabiner/betterqwerty.json ~/.config/karabiner/assets/complex_modifications/
 ```
+
+---
 
 ## Step 3: Enable BetterQWERTY
 
