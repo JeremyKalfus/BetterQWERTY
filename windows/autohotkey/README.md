@@ -13,7 +13,7 @@ For this you need AutoHotKey.
 BetterQWERTY.ahk needs to be running in the background via AutoHotkey for it to work. It consumes virtually no resources. When you restart your computer, it will (by default) not come on automatically. To schedule it to open on startup: 
 
 1. Copy BetterQWERTY.ahk
-2. Navagate to 'C:\Users\YourUserName\AppData\Roaming\Microsoft\Windows\Start Menu\Programs'
+2. Navagate to ```~\AppData\Roaming\Microsoft\Windows\Start Menu\Programs```
 3. Paste BetterQWERTY.ahk in
 
 Alternatively, you may use the Windows ["Task Scheduler"](https://learn.microsoft.com/en-us/windows/win32/taskschd/task-scheduler-start-page) feature.
