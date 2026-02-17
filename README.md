@@ -1,7 +1,5 @@
 # BetterQWERTY
-
-## What it does
-Swaps the semicolon (;) key and the P key in the QWERTY keyboard
+BetterQWERTY waps the semicolon (;) key and the P key in the QWERTY keyboard. Optional versions swap the delete key and caps lock key. 
 
 ## Why?
 I HATE the STUPID semicolon key in QWERTY! It doesn't make any sense for it to be RIGHT OVER your PINKY when you NEVER USE it (or at least use it A LOT less than the LETTER P)[^1]
